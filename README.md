@@ -24,12 +24,16 @@ depending on your target platform and goals:
   compiler (dartdevc) and a production time compiler (dart2js).  
 
 ![Dart platforms illustration](docs/assets/Dart-platforms.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsdk?ref=badge_shield)
 
 ## License & patents
 
 Dart is free and open source.
 
 See [LICENSE][license] and [PATENT_GRANT][patent_grant].
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsdk?ref=badge_large)
 
 ## Using Dart
 
